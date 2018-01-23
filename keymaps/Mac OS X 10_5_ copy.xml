@@ -75,7 +75,6 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
-  <action id="ShowIntentionActions" />
   <action id="Uml.NodeIntentions" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.Refresh" />
