@@ -4,8 +4,22 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
   <action id="FileChooser.GotoProject" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="QuickEvaluateExpression" />
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
 </keymap>
