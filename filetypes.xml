@@ -5,6 +5,7 @@
       <mapping pattern="PositionalLanguageModel" type="PLAIN_TEXT" />
       <mapping ext="conllu" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="ttl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
