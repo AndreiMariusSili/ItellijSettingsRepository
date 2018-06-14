@@ -3,6 +3,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="BaseOnThisFunction" />
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
@@ -29,7 +30,16 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
