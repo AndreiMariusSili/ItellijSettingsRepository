@@ -47,5 +47,8 @@
   <action id="Uml.ShowDiff" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="XDebugger.CopyWatch" />
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
