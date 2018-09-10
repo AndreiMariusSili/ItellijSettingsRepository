@@ -1,7 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.6.1" />
+    <option name="version" value="2.8.3" />
     <option name="userId" value="-51efebc3:16408a40e3c:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
