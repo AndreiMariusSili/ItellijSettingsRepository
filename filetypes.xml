@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="PositionalLanguageModel" type="PLAIN_TEXT" />
+      <mapping ext="pstat" type="PLAIN_TEXT" />
       <mapping ext="ttl" type="PLAIN_TEXT" />
       <mapping ext="conllu" type="PLAIN_TEXT" />
       <mapping ext="nt" type="PLAIN_TEXT" />
