@@ -79,7 +79,7 @@
       <artifact name="H2" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sqlite.xerial" name="Preprocessed">
+    <driver id="sqlite.xerial" name="SQLite">
       <artifact name="Xerial SQLiteJDBC" use="true" version="3.25.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
