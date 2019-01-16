@@ -13,6 +13,7 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
@@ -37,6 +38,8 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -57,10 +60,12 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="XDebugger.CopyWatch" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
 </keymap>
