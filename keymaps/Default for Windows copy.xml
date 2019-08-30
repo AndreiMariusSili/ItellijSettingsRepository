@@ -10,7 +10,8 @@
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="ChangesView.Diff" />
-  <action id="CloseActiveTab">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CloseProject">
