@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for Windows copy" parent="$default">
+<keymap version="1" name="Windows Custom" parent="$default">
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
