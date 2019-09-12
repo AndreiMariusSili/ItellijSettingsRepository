@@ -12,4 +12,7 @@
       </map>
     </option>
   </component>
+  <component name="JupyterSettings">
+    <option name="sourceCodeLineSpan" value="3" />
+  </component>
 </application>
