@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -18,6 +21,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToLeft" />
