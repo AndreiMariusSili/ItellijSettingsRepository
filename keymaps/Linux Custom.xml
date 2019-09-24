@@ -2,10 +2,14 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="Exit">
     <keyboard-shortcut first-keystroke="ctrl q" />
