@@ -52,6 +52,9 @@
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="Exit">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
