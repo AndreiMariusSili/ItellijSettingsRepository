@@ -12,8 +12,7 @@
         <entry key="$USER_HOME$/Code/data_science/.idea/data_science.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="token" value="" />
-              <option name="urlString" value="http://10.10.107.17:8888/" />
+              <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
