@@ -19,8 +19,8 @@
         <entry key="$USER_HOME$/Workspace/code/data_science/.idea/data_science.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="token" value="" />
-              <option name="urlString" value="http://10.10.107.17:8888" />
+              <option name="token" value="fc11d2a673a484e42b36c53ad77ca32083cbf5d18c9ada32" />
+              <option name="urlString" value="http://localhost:8889/" />
             </JupyterConnectionParameters>
           </value>
         </entry>
