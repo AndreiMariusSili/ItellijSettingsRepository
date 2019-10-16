@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="MLproject" type="YAML" />
+      <mapping pattern="MLProject" type="YAML" />
     </extensionMap>
   </component>
 </application>

@@ -9,6 +9,13 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Code/data_science/.idea/data_science.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Workspace/code/data_science/.idea/data_science.iml">
           <value>
             <JupyterConnectionParameters>
