@@ -13,7 +13,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="token" value="" />
-              <option name="urlString" value="http://10.10.107.17:8080" />
+              <option name="urlString" value="http://10.10.107.17:8889" />
             </JupyterConnectionParameters>
           </value>
         </entry>
