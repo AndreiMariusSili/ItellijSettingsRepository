@@ -28,7 +28,4 @@
       </map>
     </option>
   </component>
-  <component name="JupyterSettings">
-    <option name="showSourcesInPreview" value="false" />
-  </component>
 </application>
