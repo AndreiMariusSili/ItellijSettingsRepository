@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="d7a89334-1745-4833-be0c-d1afa6c9a63c" name="beast_2" url="http://10.10.107.17">
-        <fileTransfer host="10.10.107.17" port="22" accessType="SFTP">
+        <fileTransfer host="10.10.107.17" port="22" rootFolder="/home/andrei/Code/" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
