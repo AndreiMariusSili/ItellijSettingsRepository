@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce6e95bd-7013-4ca0-b68f-52bd6ce3aa7a" name="beast-ml" url="http://10.10.107.17">
+        <fileTransfer host="10.10.107.17" port="22" rootFolder="/home/andrei/Code/ml/" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
