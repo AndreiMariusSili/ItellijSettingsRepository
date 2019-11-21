@@ -1,7 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account id="a95c3578-ea67-4c02-9dca-da3b44b075b6" name="AndreiSiliUiPath">
-      <server host="github.com" />
+    <account id="e1c3b02f-2055-4114-8f61-3f03da5344c7" name="AndreiSiliUiPath">
+      <server useHttp="false" host="github.com" />
     </account>
   </component>
   <component name="GithubSettings">
