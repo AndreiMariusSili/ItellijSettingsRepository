@@ -1,7 +1,22 @@
 <keymap version="1" name="MacOS Custom" parent="Mac OS X 10.5+">
+  <action id="ActivateDocumentationToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
+  <action id="ActivateSciViewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 4" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 3" />
   </action>
   <action id="ChangesView.Diff" />
   <action id="CloseProject">
@@ -46,6 +61,9 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>

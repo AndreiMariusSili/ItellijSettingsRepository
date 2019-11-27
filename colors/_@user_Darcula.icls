@@ -3,7 +3,7 @@
     <property name="created">2019-10-16T20:07:21</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-11-02T01:12:53</property>
+    <property name="modified">2019-11-22T00:27:04</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -24,6 +24,7 @@
     <option name="FILESTATUS_MODIFIED" value="e2c08d" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_RENAMED" value="c679dd" />
     <option name="FILESTATUS_SUPPRESSED" value="abb2bf" />
     <option name="FILESTATUS_SWITCHED" value="61aeef" />
