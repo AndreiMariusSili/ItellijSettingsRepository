@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c6e9565e-19ee-439f-84ef-51b8886eb767" name="login-gpu.lisa.surfsara.nl" url="http://login-gpu.lisa.surfsara.nl">
+        <fileTransfer host="login-gpu.lisa.surfsara.nl" port="22" rootFolder="/home/asili" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
