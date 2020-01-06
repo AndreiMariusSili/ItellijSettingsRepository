@@ -7,7 +7,6 @@
       <mapping pattern="dataset_name" type="PLAIN_TEXT" />
       <mapping pattern="pula" type="PLAIN_TEXT" />
       <mapping ext="beast2linux" type="PLAIN_TEXT" />
-      <mapping ext="ipynb" type="PLAIN_TEXT" />
       <mapping ext="user" type="PLAIN_TEXT" />
       <mapping pattern="MLProject" type="YAML" />
       <mapping pattern="MLproject" type="YAML" />
