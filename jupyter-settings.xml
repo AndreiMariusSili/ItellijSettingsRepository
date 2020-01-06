@@ -29,7 +29,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="token" value="3a29a628e777bbdf57ee1f7059cb8cd82e84367b470b26e6" />
-              <option name="urlString" value="https://beasty:8888/" />
+              <option name="urlString" value="http://beasty:8888/" />
             </JupyterConnectionParameters>
           </value>
         </entry>
