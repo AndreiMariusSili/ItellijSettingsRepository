@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ce6e95bd-7013-4ca0-b68f-52bd6ce3aa7a" name="beasty-ml" url="http://beasty/">
+      <webServer id="ce6e95bd-7013-4ca0-b68f-52bd6ce3aa7a" name="uipath.beasty.ml" url="http://beasty/ml">
         <fileTransfer host="beasty" port="22" rootFolder="/home/andrei/Code/ml/" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
@@ -11,6 +11,14 @@
       </webServer>
       <webServer id="c6e9565e-19ee-439f-84ef-51b8886eb767" name="login-gpu.lisa.surfsara.nl" url="http://login-gpu.lisa.surfsara.nl">
         <fileTransfer host="login-gpu.lisa.surfsara.nl" port="22" rootFolder="/home/asili" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9d1fe4d8-fecc-4a55-8a97-116ddfafe788" name="uipath.beasty.mt" url="http://beasty/mt">
+        <fileTransfer host="beasty" port="22" rootFolder="/home/andrei/Code/mt/" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
