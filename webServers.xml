@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="9d1fe4d8-fecc-4a55-8a97-116ddfafe788" name="uipath.beasty.mt" url="http://beasty/mt">
-        <fileTransfer host="beasty" port="22" rootFolder="/home/andrei/Code/mt/" accessType="SFTP" authAgent="true">
+        <fileTransfer host="beasty" port="22" rootFolder="/home/andrei/Code/mt" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
