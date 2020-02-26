@@ -1,0 +1,8 @@
+<templateSet group="ML">
+  <template name="dbg" value="&#10;##########################&#10;from util.debug import DBG&#10;DBG('$ID$')&#10;##########################&#10;" description="Insert Debug function" toReformat="false" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
