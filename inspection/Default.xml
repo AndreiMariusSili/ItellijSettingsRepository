@@ -5,6 +5,7 @@
       <language minSize="172" name="Python" />
     </Languages>
   </inspection_tool>
+  <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignoredErrors">
       <list>
@@ -12,4 +13,5 @@
       </list>
     </option>
   </inspection_tool>
+  <inspection_tool class="TaskProblemsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
 </profile>
