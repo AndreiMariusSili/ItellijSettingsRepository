@@ -9,6 +9,7 @@
       <mapping pattern="pula" type="PLAIN_TEXT" />
       <mapping ext="beast2linux" type="PLAIN_TEXT" />
       <mapping ext="pbtxt" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="user" type="PLAIN_TEXT" />
       <mapping pattern="MLproject" type="YAML" />
       <mapping pattern="MLProject" type="YAML" />
